@@ -36,11 +36,11 @@
 
 
 
-<br/><br/>
+<!--<br/><br/>
 
 [![Namitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namitha-S-11465&show_icons=true)](https://github.com/Namitha-S-11465)
 
-<br/>
+<br/>-->
 
 <br/>
 
