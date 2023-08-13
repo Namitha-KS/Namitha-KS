@@ -5,7 +5,7 @@
 <h3> 👩🏽 About Me </h3>
 
 
-- 🎓 &nbsp; Second year Computer Science Undergrad student.
+- 🎓 &nbsp; Third year Computer Science Undergrad student.
 
 - 🌱 &nbsp; Learning about ML models and exploring Web3.0.
 
