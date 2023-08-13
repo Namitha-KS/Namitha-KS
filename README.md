@@ -24,21 +24,13 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
-<!--
-
-- 🛢 &nbsp; MySQL | Node.js
-
-- 🔧 &nbsp; Git | Markdown |
-
-- 🖥 &nbsp; Canva | Photoshop | Figma 
-
--->
 
 
+<h3>🛠 Currently working on</h3>
 
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase
+- 🔧 &nbsp; Webscraping AI model
+- 🔧 &nbsp; An interactive study guide to make learning interesting
+- 🔧 &nbsp; Planning on an app that can change the entire clothing shopping 
 
 <hr>
 
