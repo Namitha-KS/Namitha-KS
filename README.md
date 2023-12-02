@@ -1,4 +1,4 @@
-### Hi there👋 <h2> I'm NAMITHA</h2>
+<h2> I'm NAMITHA</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -36,11 +36,11 @@
 
 
 
-<!--<br/><br/>
+<br/><br/>
 
 [![Namitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namitha-S-11465&show_icons=true)](https://github.com/Namitha-S-11465)
 
-<br/>-->
+<br/>
 
 <br/>
 
