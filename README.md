@@ -36,7 +36,7 @@
 
 
 
-<br/><br/>
+<!--<br/><br/>
 
 [![Namitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namitha-S-11465&show_icons=true)](https://github.com/Namitha-S-11465)
 
@@ -52,11 +52,11 @@
 
 
 
-<hr>
+<hr>-->
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> Connect with Me </h3>
 
 <br>
 
