@@ -17,15 +17,6 @@
 
 
 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Java | C 
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-
-
-
 <h3>🛠 Currently working on</h3>
 
 - 🔧 &nbsp; Webscraping AI model
