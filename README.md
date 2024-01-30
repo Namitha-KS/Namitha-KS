@@ -43,7 +43,7 @@
 
 
 
-<hr>-->
+<hr>
 
 
 
@@ -60,15 +60,11 @@
 
 <a href="https://instagram.com/namitha_._s?igshid=OTk0YzhjMDVlZA=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-namitha_._s-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:namigowri2006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-namigowri2006@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:namigowri2006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-namigowri2006@gmail.com-blue?style=flat-square&logo=gmail"></a>-->
 
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=Namitha-S-11465&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Namitha-KS&theme=dark&hide_border=false)
 
 
-<hr>
 
-![image](https://user-images.githubusercontent.com/103951737/183690748-060943ff-7b39-4229-b32d-806d654bd12d.png)
 
 
