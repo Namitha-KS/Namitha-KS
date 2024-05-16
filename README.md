@@ -1,24 +1,18 @@
-<h2> I'm NAMITHA</h2>
-
-<h3> 👩🏽 About Me </h3>
-
-- 🎓 &nbsp; Third year Computer Science Undergrad student.
-
-- 🌱 &nbsp; Learning about ML models and exploring Web3.0.
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- ✍️ &nbsp; Pursuing Web Development and Content Writing as hobbies/side hustles.
-
-- 🎧 &nbsp; Podcast obsession prevails.
-
-<h3>🛠 Currently working on</h3>
-
-- 🔧 &nbsp; Webscraping AI model
-- 🔧 &nbsp; An interactive study guide to make learning interesting
-- 🔧 &nbsp; Planning on an app that can change the entire clothing shopping 
+<h2 align="center">NAMITHA S</h2>
+<!-- <h4 align="center">Passionate maker</h4> -->
+<p align="center">
+  Computer Science Engineering, Undergrad student { }  Love to build kutti kutti daily use tech tools  { }  Podcast obsession prevails
+</p>
+<hr>
+<h3 align="center"> I CAN WORK WITH</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,ts,react,git,github,vercel,vscode,discord,figma,flask,mysql,ai,django,opencv,kubernetes,docker&perline=7" />
+  </a>
+</p>
 
 <hr>
+<h3 align="center">GITHUB STATS</h3>
 <p align="center">
   <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Namitha-KS&hide_border=false&include_all_commits=true&count_private=true"/>
