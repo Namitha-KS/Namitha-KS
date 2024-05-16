@@ -19,10 +19,13 @@
 - 🔧 &nbsp; Planning on an app that can change the entire clothing shopping 
 
 <hr>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Namitha-KS&theme=dark&hide_border=false)
-
-
+<p align="center">
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Namitha-KS&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namitha-KS"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namitha-KS&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> -->
+  </a>
+</p>
 
 
 
