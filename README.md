@@ -1,7 +1,9 @@
 <h2 align="center">NAMITHA S</h2>
 <!-- <h4 align="center">Passionate maker</h4> -->
 <p align="center">
-  Computer Science Engineering, Undergrad student { }  Love to build kutti kutti daily use tech tools  { }  Podcast obsession prevails
+  Computer Science Engineering, Undergrad student<br>  
+  Love to build kutti kutti daily use tech tools<br>
+  Podcast obsession prevails
 </p>
 <hr>
 <h3 align="center"> I CAN WORK WITH</h3>
